@@ -1,7 +1,8 @@
 repo_name: csoto09/worldle
 report_id: '0862fe7d816cc0cbb3fda01aab32d137'
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-17T01:13:50+00:00'
+timestamp: '2024-01-05T08:37:50+00:00'
 requested_by: teuteuf
 provider: github
 branch: main
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/csoto09/worldle
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/csoto09/worldle
   detection_source: Repo Metadata
 - name: TypeScript
   description: A superset of JavaScript that compiles to clean JavaScript output
@@ -35,6 +38,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/csoto09/worldle
   detection_source: Repo Metadata
 - name: Autoprefixer
   description: PostCSS plugin to parse CSS and add vendor prefixes to CSS rules
@@ -44,6 +48,7 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png
+  detection_source_url: https://github.com/csoto09/worldle/blob/main/package.json
   detection_source: package.json
   last_updated_by: teuteuf
   last_updated_on: 2022-01-18 22:43:09.000000000 Z
@@ -57,6 +62,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Front-End Frameworks
   image_url: https://img.stackshare.io/service/1904/default_44d81cb9fadbc3688b7e91a6d5217d0ea5358b57.png
+  detection_source_url: https://github.com/csoto09/worldle/blob/main/package.json
   detection_source: package.json
   last_updated_by: teuteuf
   last_updated_on: 2022-02-19 21:16:22.000000000 Z
@@ -69,6 +75,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/csoto09/worldle/blob/main/package.json
   detection_source: package.json
   last_updated_by: teuteuf
   last_updated_on: 2022-01-15 20:20:15.000000000 Z
@@ -82,7 +89,7 @@ tools:
   category: Libraries
   sub_category: Javascript UI Libraries
   image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/csoto09/worldle/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: TeuTeuf
   last_updated_on: 2022-02-24 11:06:37.000000000 Z
@@ -95,6 +102,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/csoto09/worldle/blob/main/package.json
   detection_source: package.json
   last_updated_by: teuteuf
   last_updated_on: 2022-01-15 20:20:15.000000000 Z
@@ -106,6 +114,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/csoto09/worldle
   detection_source: Repo Metadata
 - name: Jest
   description: Painless JavaScript Unit Testing
@@ -117,7 +126,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/830/jest.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/csoto09/worldle/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: teuteuf
   last_updated_on: 2022-01-15 20:20:15.000000000 Z
@@ -131,7 +140,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/csoto09/worldle/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: TeuTeuf
   last_updated_on: 2022-01-26 17:03:12.000000000 Z
@@ -143,6 +152,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/csoto09/worldle/blob/main/package.json
   detection_source: package.json
   last_updated_by: teuteuf
   last_updated_on: 2022-01-15 20:20:15.000000000 Z
@@ -152,6 +162,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/csoto09/worldle/blob/main/public/googled8ec2f4d8198bf61.html
   detection_source: public/googled8ec2f4d8198bf61.html
   last_updated_by: TeuTeuf
   last_updated_on: 2022-02-01 16:51:23.000000000 Z
@@ -163,6 +174,7 @@ tools:
   category: Application Utilities
   sub_category: Translation Service
   image_url: https://img.stackshare.io/service/4747/default_82286a88bf01c80539ebd1d6dbea1b25df8af16d.png
+  detection_source_url: https://github.com/csoto09/worldle/blob/main/package.json
   detection_source: package.json
   last_updated_by: teuteuf
   last_updated_on: 2022-01-24 22:12:02.000000000 Z
@@ -176,7 +188,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16271/default_f04d39fc656c2e32ee1b9d3875a3002459aa3b69.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/csoto09/worldle/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: teuteuf
   last_updated_on: 2022-02-19 21:16:22.000000000 Z
@@ -190,7 +202,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17424/default_1cdcda15ebb7caed879f8340bc212b44c4ec9dac.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/csoto09/worldle/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: teuteuf
   last_updated_on: 2022-01-15 20:20:15.000000000 Z
@@ -205,7 +217,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16549/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/csoto09/worldle/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: TeuTeuf
   last_updated_on: 2022-02-24 11:06:37.000000000 Z
@@ -219,7 +231,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15840/default_004658cda9b38934f2871435e9dc15608c86e8be.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/csoto09/worldle/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: TeuTeuf
   last_updated_on: 2022-01-26 17:03:12.000000000 Z
@@ -233,7 +245,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/csoto09/worldle/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: TeuTeuf
   last_updated_on: 2022-01-26 17:03:12.000000000 Z
@@ -247,7 +259,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15894/default_1d65e37e65b7f80761374f0202776043277d505d.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/csoto09/worldle/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: TeuTeuf
   last_updated_on: 2022-02-24 11:06:37.000000000 Z
@@ -261,7 +273,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15946/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/csoto09/worldle/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: TeuTeuf
   last_updated_on: 2022-02-24 11:06:37.000000000 Z
@@ -275,7 +287,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15982/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/csoto09/worldle/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: teuteuf
   last_updated_on: 2022-01-31 18:19:20.000000000 Z
@@ -289,7 +301,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15980/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/csoto09/worldle/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: teuteuf
   last_updated_on: 2022-01-31 18:19:20.000000000 Z
@@ -303,7 +315,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15879/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/csoto09/worldle/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: teuteuf
   last_updated_on: 2022-01-30 21:58:52.000000000 Z
@@ -317,7 +329,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15896/default_6e6e1d6bb189c8bb26c6410618bd597979578f39.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/csoto09/worldle/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: TeuTeuf
   last_updated_on: 2022-01-26 17:03:12.000000000 Z
@@ -331,7 +343,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15817/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/csoto09/worldle/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: TeuTeuf
   last_updated_on: 2022-02-24 11:06:37.000000000 Z
@@ -345,7 +357,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17375/default_c1932d441699b98abea6098c6f8f65e2acb4f5ed.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/csoto09/worldle/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: teuteuf
   last_updated_on: 2022-01-21 23:18:31.000000000 Z
@@ -366,7 +378,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15992/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/csoto09/worldle/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: TeuTeuf
   last_updated_on: 2022-02-24 11:06:37.000000000 Z
@@ -380,7 +392,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16012/default_7a88bebb451873cc63bd99007de5bd3bb8ef85de.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/csoto09/worldle/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: teuteuf
   last_updated_on: 2022-01-18 22:43:09.000000000 Z
@@ -401,7 +413,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18089/image.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/csoto09/worldle/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: TeuTeuf
   last_updated_on: 2022-02-24 11:06:37.000000000 Z
@@ -415,7 +427,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17254/default_9aa9c9d4e491c9d2d70df74bfa33cf525babb7f5.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/csoto09/worldle/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: TeuTeuf
   last_updated_on: 2022-02-24 11:06:37.000000000 Z
@@ -429,7 +441,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/csoto09/worldle/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: TeuTeuf
   last_updated_on: 2022-02-24 11:06:37.000000000 Z
@@ -443,7 +455,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17777/default_65e03f67ad735337587d736d5fbc87b538eccdf7.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/csoto09/worldle/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: TeuTeuf
   last_updated_on: 2022-02-24 11:06:37.000000000 Z
@@ -457,7 +469,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16926/default_ebf16e0c8af5e95030933d9e01479224b6665289.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/csoto09/worldle/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: TeuTeuf
   last_updated_on: 2022-02-24 11:06:37.000000000 Z
@@ -471,7 +483,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15985/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/csoto09/worldle/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: TeuTeuf
   last_updated_on: 2022-02-24 11:06:37.000000000 Z
@@ -485,7 +497,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18461/default_5ff724c0ff89bb42698aa80ef3403008cb0d8f72.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/csoto09/worldle/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: TeuTeuf
   last_updated_on: 2022-02-24 11:06:37.000000000 Z
@@ -499,7 +511,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17815/default_78858facb60c08d15198eb69a6c7f48463f2c09f.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/csoto09/worldle/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: teuteuf
   last_updated_on: 2022-01-17 22:36:50.000000000 Z
@@ -513,7 +525,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17398/default_2cd7ed1c123f2fca074a6f4b16c4e73d5bfe82be.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/csoto09/worldle/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: teuteuf
   last_updated_on: 2022-01-31 18:19:20.000000000 Z
