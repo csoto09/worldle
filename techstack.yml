@@ -2,7 +2,7 @@ repo_name: csoto09/worldle
 report_id: '0862fe7d816cc0cbb3fda01aab32d137'
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:37:50+00:00'
+timestamp: '2024-02-29T18:49:44+00:00'
 requested_by: teuteuf
 provider: github
 branch: main
@@ -131,7 +131,7 @@ tools:
   last_updated_by: teuteuf
   last_updated_on: 2022-01-15 20:20:15.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.5.1
   license: MIT
